@@ -1,0 +1,10 @@
+{
+  "title": "Storipress Internal Docuementation",
+  "url": "",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "storipress/engineering-wiki",
+  "twitter": "@storipress"
+}
