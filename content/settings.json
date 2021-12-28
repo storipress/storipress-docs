@@ -1,10 +1,12 @@
 {
-  "title": "Storipress Internal Docuementation",
-  "url": "",
+  "title": "Storipress Developer Docs",
+  "url": "docs.storipress.com",
   "logo": {
     "light": "/logo-light.svg",
     "dark": "/logo-dark.svg"
   },
   "github": "storipress/storipress-docs",
+  "defaultbranch": "master",
+  "defaultDir": "",
   "twitter": "@storipress"
 }
