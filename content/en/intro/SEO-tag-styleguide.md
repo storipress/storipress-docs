@@ -11,9 +11,9 @@ category: Blocks
 
 <table>
   <tr>
-    <td>Block Type</td>
-    <td>Element Type</td>
-    <td>Tag</td>
+    <td>**Block Type**</td>
+    <td>**Element Type**</td>
+    <td>**Tag**</td>
   </tr>
   <tr>
     <td>Hero Block</td>
