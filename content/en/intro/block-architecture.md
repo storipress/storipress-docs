@@ -5,6 +5,8 @@ position: 3
 category: Blocks
 ---
 
+A theme is composed of multiple theme '**blocks**' stacked on top of each other and controls the organisation, features and style of a publisher's online newspaper. Block code is organised with a standard directory structure of files specific to Storipress themes, as well as supporting assets such as images, stylesheets, and scripts. To learn about about how themes fit into Storipress, and learn how to set up an environment to build and test themes, refer to the Storipress themes overview.
+
 ## High Level Overview:
 
 1. Blocks in Storipress are wrapped within a [`Block` component](/2%20StandardBlocks/2%20Wrappers#block).
