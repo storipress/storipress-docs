@@ -7,11 +7,12 @@ category: Blocks
 
 A theme is composed of multiple theme '**blocks**' stacked on top of each other and controls the organisation, features and style of a publisher's online newspaper. Block code is organised with a standard directory structure of files specific to Storipress themes, as well as supporting assets such as images, stylesheets, and scripts. To learn about about how themes fit into Storipress, and learn how to set up an environment to build and test themes, refer to the Storipress themes overview.
 
-## High Level Overview:
+## Anatomy of a Storipress theme block:
 
-1. Blocks in Storipress are wrapped within a [`Block` component](/2%20StandardBlocks/2%20Wrappers#block).
-2. Blocks contain several [`DeskSection` wrappers](/2%20StandardBlocks/2%20Wrappers#desksection).
-3. Desks are Storipress' version of 'article categories'. Within a `DeskSection`, several `ArticleBlock` components can be nested. ArticleBlock components render the articles of our users within Storipress.
+1. Themes on Storipress are made up of modular 'blocks' stacked on top of one another.
+2. Blocks in Storipress are wrapped within a [`Block` component](/2%20StandardBlocks/2%20Wrappers#block).
+3. Blocks contain several [`DeskSection` wrappers](/2%20StandardBlocks/2%20Wrappers#desksection), which dynamically populate blocks with articles and stories.
+4. Within a `DeskSection`, several `ArticleBlock` components can be nested. ArticleBlock components render the articles of our users within Storipress.
 
 Here is an example of the basic structure of a `Block`:
 
