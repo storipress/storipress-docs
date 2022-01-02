@@ -13,6 +13,8 @@ Storipress' font library is a collection of over 100 fonts that includes system 
 
 The following fonts are free to use on all Storipress online publications:
 
+<Font-input></Font-input>
+
 ### Display
 
 <alert>Attention seeking!</alert>
