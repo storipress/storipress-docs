@@ -1,17 +1,19 @@
 ---
-title: Fontbook
+title: Fonts
 description: ''
 position: 7
 category: Blocks
 ---
 
-</alert>
+## Storipress font library
 
-All fonts below have been selected for excellent screen readability.
+Storipress' font library is a collection of over 100 fonts that includes system fonts, a selection of Google fonts, and licensed fonts. These fonts are free to use on all Storipress publications, and are provided in WOFF2 formats. If you need to use a broader range of characters, the team is currently working on a Typekit integration — tell us if this feature is important to you.
 
-<Font-input></Font-input>
+## Available fonts
 
-## Display
+The following fonts are free to use on all Storipress online publications:
+
+### Display
 
 <alert>Attention seeking!</alert>
 
@@ -19,25 +21,25 @@ All fonts below have been selected for excellent screen readability.
 
 <Font-preview filter="Display"></Font-preview>
 
-## Sans Serif
+### Sans Serif
 
 <alert>Good for body text. Modern fonts without serif.</alert>
 
 <Font-preview filter="Sans"></Font-preview>
 
-## Serif
+### Serif
 
 <alert>Good for body text. Traditional and professional looking fonts with serif.</alert>
 
 <Font-preview filter="Serif"></Font-preview>
 
-## Condensed
+### Condensed
 
 <alert>Squished fonts. Great for non body text, e.g. headlines, blurbs, etc.</alert>
 
 <Font-preview filter="Condensed"></Font-preview>
 
-## Mono
+### Mono
 
 <alert>Beep bop boop</alert>
 
