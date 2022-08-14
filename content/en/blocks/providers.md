@@ -198,7 +198,7 @@ The `Logo` component does not have any slots.
 
 ## Site Provider
 
-<alert type="info">This provider returns returns the name of your publication and its associated profile information (e.g. URLs for social media links). Unlike `DeskSection` or `Article`, this component will return the same result every time it is used.</alert>
+<alert type="info">This provider returns the name of your publication and its associated profile information (e.g. URLs for social media links). Unlike `DeskSection` or `Article`, this component will return the same result every time it is used.</alert>
 
 #### Basic Example
 
